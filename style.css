@@ -1,0 +1,16 @@
+header {
+    padding: 37.5px;
+    height: 75px;
+    background: blue;
+    font-size: 50px;
+
+    text-align: center;
+    color: #ffffff;
+}
+
+section {
+    background: black;
+    border: white solid 50px;
+    text-align: center;
+    color: #ffffff;
+}
